@@ -121,3 +121,6 @@ This will launch a Gradio web interface where you can ask questions about your d
 - Default chunk size is 1000 characters with 200 character overlap
 - Embeddings are generated using the `all-mpnet-base-v2` model
 - The system uses a maximum of 3 relevant chunks for context
+
+## Sample questions
+- compare and contrast the services offered by RankBoost and Omni marketing
